@@ -1,0 +1,94 @@
+{"data":
+ [{
+  "regions": ["SH", "BW"],
+  "WR": {
+    "champ": "Nautilus",
+    "code": "02BW053T1",
+    "size": 52.43,
+    "position": ""
+  },
+  "PR": {
+    "champ": "Maokai",
+    "code": "02SI008T2",
+    "size": 5.08,
+    "position": ""
+  }
+},
+{
+  "regions": ["IO", "PNZ"],
+  "WR": {
+    "champ": "Karma",
+    "code": "01IO041T1",
+    "size": 51.95,
+    "position": ""
+  },
+  "PR": {
+    "champ": "Sett",
+    "code": "07IO011",
+    "size": 4.33,
+    "position": ""
+  }
+},
+{
+  "regions": ["NX", "BC"],
+  "WR": {
+    "champ": "Tristana",
+    "code": "05BC133T1",
+    "size": 55.28,
+    "position": ""
+  },
+  "PR": {
+    "champ": "Teemo",
+    "code": "01PZ008T2",
+    "size": 4.20,
+    "position": ""
+  }
+},
+{
+  "regions": ["BW", "BC"],
+  "WR": {
+    "champ": "Tristana",
+    "code": "05BC133T1",
+    "size": 56.28,
+    "position": ""
+  },
+  "PR": {
+    "champ": "Teemo",
+    "code": "01PZ008T2",
+    "size": 3.84,
+    "position": ""
+  }
+},
+{
+  "regions": ["BW", "SH"],
+  "WR": {
+    "champ": "Pyke",
+    "code": "04BW005",
+    "size": 53.83,
+    "position": ""
+  },
+  "PR": {
+    "champ": "Rek'Sai",
+    "code": "04SH019",
+    "size": 2.87,
+    "position": ""
+  }
+},
+{
+  "regions": ["SH"],
+  "WR": {
+    "champ": "Renekton",
+    "code": "04SH067",
+    "size": 43.36,
+    "position": ""
+  },
+   "PR": {
+    "champ": "Azir",
+    "code": "04SH003T2",
+    "size": 2.74,
+    "position": ""
+  }
+}
+
+]
+}

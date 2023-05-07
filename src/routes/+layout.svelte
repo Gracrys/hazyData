@@ -5,8 +5,13 @@
   import "@skeletonlabs/skeleton/styles/all.css";
   // Most of your app wide CSS should be put in this file
   import "../app.postcss";
+
+  import bg from "$lib/assets/bg.png";
 </script>
 
-<main class="w-full flex h-screen items-center">
+<main
+  class="w-full flex h-screen items-center bg-cover"
+  style="background-image: url({bg});"
+>
   <slot />
 </main>
