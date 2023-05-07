@@ -56,7 +56,7 @@
         </aside>
       {/each}
     </div>
-    <article class="flex w-[1080px] justify-center">
+    <article class="flex w-[1080px] justify-center relative">
       <figure class=" flex flex-col items-end gap-4">
         {#each data as d}
           <div
@@ -76,6 +76,15 @@
           </div>
         {/each}
       </figure>
+      <div class="relative h-full">
+        <div class="flex flex-col gap-4 absolute h-full w-20 z-20 -left-10">
+          {#each data as d}
+            <figure
+              class="w-full h-16 bg-gradient-to-r from-gray-500/5 via-gray-500 to-gray-500/5"
+            />
+          {/each}
+        </div>
+      </div>
       <figure class="flex flex-col gap-4">
         {#each data as d}
           <div
